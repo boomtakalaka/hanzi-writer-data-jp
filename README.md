@@ -2,6 +2,8 @@
 
 ## About
 
+This is a fork of [Hanzi Writer Data JP](https://github.com/chanind/hanzi-writer-data-jp) which updates the animCJK submodule with the latest version, as well as creating a Joyo kanji specific set which is outputted by `stroke_data_parser.py` as `data/joyo.json`. This fork is not hosted on a CDN or uploaded to npm as a package, unlike the original.
+
 This is the character data used by [Hanzi Writer](https://github.com/chanind/hanzi-writer) for Japanese.
 **NOTE: This is currently experimental**
 
